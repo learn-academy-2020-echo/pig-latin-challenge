@@ -37,7 +37,7 @@ class App extends Component {
       // Remember: console.log is your friend :)
 
 
-      // ACTION ITEM: change the value of currentWord to the name of whatever variable you made containing your Pig Latin'd word
+      // ACTION ITEM: update the value being returned to reflect the output of your code
       return currentWord
     })
 
